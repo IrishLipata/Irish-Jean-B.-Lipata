@@ -7,7 +7,6 @@ This laboratory activity focuses on understanding the basic components of cloud 
 ## Objectives
 
 The objectives of this laboratory activity are to:
-
 - Investigate the infrastructure of a Linux virtual machine.
 - Identify compute, storage, networking, and operating system resources.
 - Use Linux commands to collect system information.
